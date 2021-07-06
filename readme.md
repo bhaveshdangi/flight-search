@@ -1,4 +1,4 @@
-# EK Flight Connections Search
+# Flight Connections Search
 
 A multi-module project including UI to search flight connections. Each module is a Spring Boot service and can be run individually. They are:
 1. Master Data Service
